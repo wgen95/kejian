@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="cn.kejian.nativetest">
+    <application android:label="课间 原生运行验证" android:allowBackup="false" />
+    <instrumentation android:name="cn.kejian.nativetest.BrowserSmokeRunner" android:targetPackage="cn.kejian.timetable" android:functionalTest="true" />
+</manifest>

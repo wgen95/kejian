@@ -1,0 +1,31 @@
+{
+  "executedAt": "2026-10-14T10:08:00+08:00",
+  "scenario": "synthetic fixture",
+  "result": "passed",
+  "releaseApk": "dist/Kejian-0.3.2.apk",
+  "releaseSha256": "4344A97FAB1986A6A19822FE444620B5F4960D8DD01E8BA71F9F9582719AEB7F",
+  "releaseDebuggable": false,
+  "androidApi": 36,
+  "avd": "KejianApi36",
+  "systemImage": "android-36/google_atd/x86_64 revision 1",
+  "webViewProvider": "com.android.webview 133.0.6943.137",
+  "drawingEnabled": true,
+  "teacherEditorVisible": true,
+  "previewCancelLeavesSavedCoursesUnchanged": true,
+  "fixtureCancelledWithoutSaving": true,
+  "accountLoginPerformed": false,
+  "userDeviceCommandsPerformed": false,
+  "emulatorStopped": true,
+  "fullSanitizedReport": "fixture-test-complete.txt",
+  "anonymousLoginPage": {
+    "CheckedAt": "2026-10-13",
+    "Result": "passed",
+    "StartedFromNativeImportButton": true,
+    "FinalOriginAndPath": "https://iam.tongji.edu.cn/idp/authcenter/ActionAuthChain",
+    "ElapsedMs": 5306,
+    "VisibleUsernames": 1,
+    "VisiblePasswords": 1,
+    "VisibleLoginButtons": 1
+  },
+  "realmeNeo7AndRealAccountVerified": false
+}

@@ -1,0 +1,35 @@
+{
+  "releaseVersion": "0.3.3",
+  "releaseSha256": "5CC5A0560DDE3EE7F10A607E20C8254C1F8BAEA5F9F17BD7904BFB9FC225360E",
+  "androidSdk": 36,
+  "webViewProvider": "com.android.webview 133.0.6943.137",
+  "browserPolicyChecks": 746,
+  "checks": {
+    "fixture": {
+      "passed": true,
+      "repairChecks": null,
+      "loginPageVisible": null,
+      "previewVisible": true,
+      "cancelledWithoutSaving": true,
+      "syntheticParametersSentToSchool": null
+    },
+    "repair": {
+      "passed": true,
+      "repairChecks": 16,
+      "loginPageVisible": null,
+      "previewVisible": null,
+      "cancelledWithoutSaving": null,
+      "syntheticParametersSentToSchool": false
+    },
+    "login": {
+      "passed": true,
+      "repairChecks": null,
+      "loginPageVisible": true,
+      "previewVisible": null,
+      "cancelledWithoutSaving": null,
+      "syntheticParametersSentToSchool": null
+    }
+  },
+  "actualAccountLoginVerified": false,
+  "realmeNeo7Verified": false
+}
